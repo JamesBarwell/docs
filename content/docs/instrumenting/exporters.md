@@ -76,6 +76,7 @@ wide variety of JVM-based applications, for example [Kafka](http://kafka.apache.
    * [Nginx metric library](https://github.com/knyar/nginx-lua-prometheus)
    * [Nginx VTS exporter](https://github.com/hnlq715/nginx-vts-exporter)
    * [Passenger exporter](https://github.com/stuartnelson3/passenger_exporter)
+   * [PHP-FPM exporter](https://github.com/JamesBarwell/phpfpm_exporter)
    * [Tinyproxy exporter](https://github.com/igzivkov/tinyproxy_exporter)
    * [Varnish exporter](https://github.com/jonnenauha/prometheus_varnish_exporter)
    * [WebDriver exporter](https://github.com/mattbostock/webdriver_exporter)
